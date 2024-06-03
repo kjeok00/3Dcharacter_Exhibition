@@ -1,2 +1,3 @@
 # myFirstCharacter
-![화면 캡처 2024-06-02 173313](https://github.com/kjeok00/myFirstCharacter/assets/129487583/1307a7d9-c913-4433-a0cb-9ccd033c25e8)
+
+![image](https://github.com/kjeok00/myFirstCharacter/assets/129487583/29fe3105-4608-4aba-8306-bacc6005d24c)
